@@ -1,4 +1,4 @@
-package DynamicArray;
+package DataStructures.LinkedList;
 
 //methods
 //clear()

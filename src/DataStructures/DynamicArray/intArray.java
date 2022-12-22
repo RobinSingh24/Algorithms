@@ -1,4 +1,4 @@
-package DynamicArray;
+package DataStructures.DynamicArray;
 import java.util.Arrays;
 
 // methods of java.util.Arrays class
