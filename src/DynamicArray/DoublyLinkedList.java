@@ -178,20 +178,4 @@ public class DoublyLinkedList<T> {
         }
         return remove(trav);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
